@@ -11,7 +11,7 @@ export const MainSection = styled.section`
 export const BoxContainerDiv = styled.div`
     background-color: hsl(244, 38%, 16%);
     width: 58%;
-    height: 45%;
+    height: 60%;
     border-radius: 10px;
     display: grid;
     grid-template-columns: 55% 45%;
